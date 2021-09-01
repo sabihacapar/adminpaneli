@@ -1,0 +1,33 @@
+<?php
+$lang = array(
+"anasayfa"		=> "Homepage",
+"blogyazi"	        => "Blog Posts",
+"detailsyazi"	        => "Blog Details Posts",
+"bloglar"	        => "Blogs",
+"details"	        => "Blog Details",
+"trdil"			=> "Turkish",
+"ingdil"		=> "English",
+"hakkimizda"		=> "About",
+"project"			=> "Project",
+"renkler"	        => "Color",
+"panel"			=> "Admin Panel",
+"cikis"	        => "Logout",
+"okunmamismesaj"		=> "Unread Message",
+"detaygor"			=> "View Detail",
+"search"			=> "Search",
+"ekle"		=> "New Create",
+"dil"		=> "Language",
+"baslik"		=> "Title",
+"altbaslik"		=> "Subtitle",
+"aciklama"    =>"Comment",
+"tarih"			=> "Date",
+"temizle"   =>"Reset",
+"kaydet"  =>"Submit",
+"aktif"		=> "Aktive",
+"pasif" => "Pasive",
+"arac"     =>"Transactions",
+"update" =>"Update",
+"don" => "Turn Back",
+);
+
+?>
